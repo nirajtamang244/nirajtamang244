@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nirajtamang244
-- 👀 I’m interested in coding  
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding
+- 👀 I’m interested in chess, if you want to do 1v1, let me know. 
+- 🌱 I’m currently learning Java script and web development
+- 💞️ I’m looking to collaborate on nothing. I am working on my portfolio website.
 - 📫 How to reach me nirajtamang244@gmail.com
 
 <!---
